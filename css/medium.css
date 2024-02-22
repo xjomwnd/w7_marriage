@@ -1,19 +1,16 @@
-@media only screen and (max-width: 800px) {
-    .blog-content {
-        max-width: 80%;
-    }
+/* Styles for medium-sized screens (e.g., tablets) */
+
+/* Main header */
+header {
+    padding: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-    header {
-        padding: 15px;
-    }
+/* Main content */
+main {
+    padding: 20px;
+}
 
-    .blog-content {
-        padding: 15px;
-    }
-
-    footer {
-        padding: 5px;
-    }
+/* Footer */
+footer {
+    padding: 10px;
 }
